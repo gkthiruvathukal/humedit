@@ -1,0 +1,7 @@
+This repo houses a project under the loyola-digital humanities-humanities
+
+humedit-web-console
+- the projects human interface
+
+humedit-core-server
+-the projects RS API and functionality
